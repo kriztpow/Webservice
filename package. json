@@ -1,0 +1,12 @@
+{
+  "name": "screenshare-relay",
+  "version": "1.0.0",
+  "description": "Servidor relay para ScreenShare Pro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
